@@ -27,6 +27,12 @@ In this course, you may install the programming environment on your personal com
 ## Reference textbooks
 * [Making Games with Python & Pygame](https://inventwithpython.com/pygame/)
 * [Problem Solving with C++, 10th Edition](https://www.pearson.com/us/higher-education/program/PGM1743309.html)
+
+## Online tutorials
+* [Python course](https://python-course.eu/)
+* [The Modern JavaScript Tutorial](https://javascript.info/)
+
+## Game engines
 * [List of game engines](https://en.wikipedia.org/wiki/List_of_game_engines)
   * [UPBGE](https://upbge.org/)
   * [Godot](https://godotengine.org/)
